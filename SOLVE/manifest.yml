@@ -1,0 +1,8 @@
+applications:
+- disk_quota: 1024M
+  host: Duncan-Solve
+  name: Duncan-Solve
+  path: .
+  domain: mybluemix.net
+  instances: 1
+  memory: 128M
